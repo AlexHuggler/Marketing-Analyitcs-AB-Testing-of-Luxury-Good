@@ -1,1 +1,2 @@
-# Marketing-Analyitcs: Causal A/B Testing
+# Effectiveness of Advertising - A/B Test and Analysis
+
